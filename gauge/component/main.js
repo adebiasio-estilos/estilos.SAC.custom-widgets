@@ -120,5 +120,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-gauge", Box);
+	customElements.define("it-estilos-sac-widgets-gauge", Box);
 })();

@@ -1,5 +1,5 @@
 {
-	"id": "com.demo.gauge",
+	"id": "it-estilos-sac-widgets-gauge",
 	"version": "1.0.0",
 	"name": "Estilos Gauge Chart",
 	"description": "Estilos Gauge Chart",
@@ -11,21 +11,21 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-demo-gauge",
+			"tag": "it-estilos-sac-widgets-gauge",
 			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/main.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
+			"tag": "it-estilos-sac-widgets-gauge-sps",
 			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
+			"tag": "it-estilos-sac-widgets-gauge-bps",
 			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
