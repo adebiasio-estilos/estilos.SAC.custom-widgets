@@ -9,6 +9,13 @@
 	"license": "",
     "icon": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/hello-world/component/icon.png",
     "webcomponents": [
+        {
+			"kind": "main",
+			"tag": "it-estilos-sac-widgets-helloworld-main",
+            "url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/hello-world/component/main.js",
+            "integrity": "",
+            "ignoreIntegrity" : true
+        }
     ],
 	"properties": {
 	},
