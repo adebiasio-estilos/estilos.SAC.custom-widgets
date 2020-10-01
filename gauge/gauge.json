@@ -4,29 +4,29 @@
 	"name": "Estilos Gauge Chart",
 	"description": "Estilos Gauge Chart",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://raw.githubusercontent.com/adebiasio-estilos/estilos.gauge/master/box/icon.png",
+	"eula": "",
 	"vendor": "Estilos",
-	"eula": "EULA",
-	"license": "1.0",
+	"license": "",
+	"icon": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/icon.png",
 	"webcomponents": [
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://raw.githubusercontent.com/adebiasio-estilos/estilos.gauge/master/box/box.js",
+			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/main.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://raw.githubusercontent.com/adebiasio-estilos/estilos.gauge/master/box/box_sps.js",
+			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://raw.githubusercontent.com/adebiasio-estilos/estilos.gauge/master/box/box_bps.js",
+			"url": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/gauge/component/bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}

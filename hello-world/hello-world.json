@@ -1,12 +1,12 @@
 {
-	"name": "Hello World",
+	"id": "it.estilos.sac.widgets.helloworld",
+	"version": "0.0.1",
+    "name": "Hello World",
 	"description": "Hello World from Estilos",
-	"eula": "EULA",
+	"newInstancePrefix": "HelloWorld",
+    "eula": "",
 	"vendor": "Estilos",
 	"license": "",
-	"id": "it.estilos.sac.widgets.helloworld",
-	"newInstancePrefix": "HelloWorld",
-	"version": "0.0.1",
     "icon": "https://adebiasio-estilos.github.io/estilos.SAC.custom-widgets/hello-world/component/icon.png",
     "webcomponents": [
     ],
